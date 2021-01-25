@@ -2,6 +2,9 @@ package com.neuedu.part03;
 
 import java.util.Scanner;
 
+
+
+
 public class TestPart304 {
 	public static void main(String[] args) {
 		//输入两个数，输出他们最大公约数
